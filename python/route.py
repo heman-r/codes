@@ -4,6 +4,7 @@
 # Sample input = ['n', 's', 'e', 'w']
 
 
+
 num = input('Enter no of routes: ');
 print('Enter the routes');
 routes = [];
