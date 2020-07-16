@@ -1,3 +1,9 @@
+# A person is stading in a town where all the roads and corssings are squares.
+# You are given an input of directions and you need to figure out whether the person returns to his
+# original position or not
+# Sample input = ['n', 's', 'e', 'w']
+
+
 
 num = input('Enter no of routes: ');
 print('Enter the routes');
